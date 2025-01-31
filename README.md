@@ -1,1 +1,2 @@
-This is a readme file to better understand stuff
+This is a readme file for better understanding
+some stuff
