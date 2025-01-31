@@ -1,3 +1,5 @@
-x=int(input('Enter your age:'))
-name=input(input("Enter your name:"))
+age=int(input('Enter your age:'))
+name=input("Enter your name:")
 print(f"Hello {name}, your lucky number is {age//2}")
+print('Your method of learning is fucked up')
+print('so fucked up')
